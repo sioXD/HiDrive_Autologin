@@ -4,6 +4,8 @@ Wenn man die HiDrive App und das Protokoll SMB gleichzeitig nutzt, muss man sich
 
 Dieses Skript übernimmt den anmelde Prozess und meldet den Nutzer bei jeder neuen Sitzung automatisch an.
 
+Es kann passieren, dass der Prozess fehlschlegt. Das liegt meistens an der Netzwerkverbindung.
+
 ## Nutzung
 
 1. Lege die `HiDrive_Autologin.bat` in einem Ordner an der offline zugreifbar ist
